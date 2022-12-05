@@ -2,4 +2,4 @@
 
 * Ruby version: 7
 
-* In the mean time: [Kevin](https://media3.giphy.com/media/DMNPDvtGTD9WLK2Xxa/giphy.gif?cid=ecf05e4742w31jwtw9expx9wvgh63nl3owesygn4pqgyknv0&rid=giphy.gif&ct=g)
+* In the mean time: [Here's some classic Kevin](https://media3.giphy.com/media/DMNPDvtGTD9WLK2Xxa/giphy.gif?cid=790b76111712f25810d6be19bbf94a0186902a9e83630629&rid=giphy.gif&ct=g)
